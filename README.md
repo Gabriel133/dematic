@@ -7,7 +7,7 @@ Prerequisite (Software needed):
 
 To run the project:
 1. Clone hte repo
-2. Open CMD and change to the directory
+2. Open CMD and change to the directory "../calculator"
 3. Excute command "mvn clean package"
 4. Excute command "mvn spring-boot:run"
 
